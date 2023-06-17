@@ -16,8 +16,6 @@ Copy code
 </style>
 </head>
 <body class="bg-gray-100">
-    <div class="sidebar bg-black w-16 h-screen fixed top-0 left-0"></div>
-    <div class="sidebar bg-black w-16 h-screen fixed top-0 right-0"></div>
     <div class="content mx-auto">
         <div class="flex justify-between items-center bg-gray-300 px-4 py-2">
             <div class="flex items-center">
